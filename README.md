@@ -1,12 +1,5 @@
 # Project Planner
 
-Run the project with Maven:
-
-```powershell
-mvn clean package
-java -jar target\project-planner-0.0.1-SNAPSHOT.jar
-```
-
 This project uses Java 17 or newer and Maven.
 
 ## Use the menu
